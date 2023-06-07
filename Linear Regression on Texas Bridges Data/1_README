@@ -1,1 +1,3 @@
+This Notebook focuses on a Linear Regression on some data of Bridges in Texas.
 
+Initially, data is preprocessed and formatted to allow easy and thorough regression analysis on different bridges (with various material composition) in order to determine the best materials used in the strongest bridges. 
