@@ -1,0 +1,3 @@
+This Notebook investigates regression models on a dataset of Storks and Birth Rate in an Area. The aim of the notebook is to test the hypothesis whether the number of Storks are related to Birth Rate in a country.
+
+Various techniques and statistical analyses are used (bootstrap, regression, root squared mean error) and confidence intervals are used to support the final conclusion.
